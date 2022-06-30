@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "calc_calorie"
+
+CalcCaloriegem::Command.start(ARGV)
