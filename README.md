@@ -15,8 +15,11 @@ If bundler is not being used to manage dependencies, install the gem by executin
     $ gem install calc_calorie
 
 ## Usage
+You could see usage with `calc_calorie help calc`.
 
-TODO: Write usage instructions here
+When you want to loss weight, you have to add option `-l`.
+When you want to gain weight, you have to add option `-g`.
+When you want to keep weight, you don't have to add any options.
 
 ## Development
 
